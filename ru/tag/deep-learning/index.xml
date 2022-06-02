@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deep Learning | Academic</title>
-    <link>https://example.com/ru/tag/deep-learning/</link>
-      <atom:link href="https://example.com/ru/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>%20nastarkov.github.io/ru/tag/deep-learning/</link>
+      <atom:link href="%20nastarkov.github.io/ru/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>%20nastarkov.github.io/%20nastarkov.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Deep Learning</title>
-      <link>https://example.com/ru/tag/deep-learning/</link>
+      <link>%20nastarkov.github.io/ru/tag/deep-learning/</link>
     </image>
     
     <item>
       <title>Полезная и вредная еда</title>
-      <link>https://example.com/ru/project/example/</link>
+      <link>%20nastarkov.github.io/ru/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/project/example/</guid>
+      <guid>%20nastarkov.github.io/ru/project/example/</guid>
       <description>&lt;p&gt;Первое место среди так называемых продуктов &amp;ldquo;вампиров&amp;rdquo; выделен белый хлеб (265 ккал на 100 грамм)— это не только батоны и булочки, к ним относятся тосты, круассаны и пицца. Хлеб вредит фигуре и негативно действует на организм.&lt;/p&gt;
 &lt;p&gt;Такие пышные, красивые и ароматные булочки полны углеводами,а это стимулирует работу поджелудочной и провоцирует быстрый выброс инсулина. В результате, снижается тонус, человек испытывает утомление и повышается аппетит. Кусок хлеба не может надолго насытить организм и обладает невысокой питательной ценностью.&lt;/p&gt;
 &lt;p&gt;Такой же эффект организму наносят и хлопья (за исключением тех, что не содержат сахар). Они содержат большое количество сахара, вырабатывается инсулин и уже к середине дня мы чувствуем голод. Поэтому забываем про бутерброды с белым хлебом и быстрые завтраки и переходим на цельнозерновой хлеб без дрожжей, каши (овсяная, гречневая, кукурузная), творог, сыр, отварные яйца или не сладкий йогурт. Отличной добавкой к такой утренней трапезе станут орехи, тыквенные семечки, ягоды (черника, малина, арбуз и т.д.), мед, протеиновые коктейли или напитки на базе соевого молока.&lt;/p&gt;

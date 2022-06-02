@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>%20nastarkov.github.io/</link>
+      <atom:link href="%20nastarkov.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>%20nastarkov.github.io/%20nastarkov.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
-      <link>https://example.com/</link>
+      <link>%20nastarkov.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.com/talk/example-talk/</link>
+      <link>%20nastarkov.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/example-talk/</guid>
+      <guid>%20nastarkov.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,9 +34,9 @@
     
     <item>
       <title>Git version control</title>
-      <link>https://example.com/post/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8-git/</link>
+      <link>%20nastarkov.github.io/post/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8-git/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8-git/</guid>
+      <guid>%20nastarkov.github.io/post/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8-git/</guid>
       <description>&lt;h2 id=&#34;описание&#34;&gt;Описание&lt;/h2&gt;
 &lt;p&gt;GIT is a distributed version control system created by Linus Torvalds to manage the development of the Linux kernel and is currently very widespread among software developers.&lt;/p&gt;
 &lt;p&gt;A Version Control System (VCS) is software that makes it easier to work with changing information. The version control system allows you to store multiple versions of the same document, revert to earlier versions if necessary, determine who made a change and when, and much more. Such systems are most widely used in software development to store the source codes of the program being developed.&lt;/p&gt;
@@ -50,9 +50,9 @@
     
     <item>
       <title>Lightweight markup languages</title>
-      <link>https://example.com/post/%D0%BB%D0%B5%D0%B3%D0%BA%D0%BE%D0%B2%D0%B5%D1%81%D0%BD%D1%8B%D0%B5-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8/</link>
+      <link>%20nastarkov.github.io/post/%D0%BB%D0%B5%D0%B3%D0%BA%D0%BE%D0%B2%D0%B5%D1%81%D0%BD%D1%8B%D0%B5-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/%D0%BB%D0%B5%D0%B3%D0%BA%D0%BE%D0%B2%D0%B5%D1%81%D0%BD%D1%8B%D0%B5-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8/</guid>
+      <guid>%20nastarkov.github.io/post/%D0%BB%D0%B5%D0%B3%D0%BA%D0%BE%D0%B2%D0%B5%D1%81%D0%BD%D1%8B%D0%B5-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8/</guid>
       <description>&lt;h2 id=&#34;описание&#34;&gt;Описание&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -83,9 +83,9 @@
     
     <item>
       <title>My last week 1</title>
-      <link>https://example.com/post/%D0%BC%D0%BE%D1%8F-%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-1/</link>
+      <link>%20nastarkov.github.io/post/%D0%BC%D0%BE%D1%8F-%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-1/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/%D0%BC%D0%BE%D1%8F-%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-1/</guid>
+      <guid>%20nastarkov.github.io/post/%D0%BC%D0%BE%D1%8F-%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-1/</guid>
       <description>&lt;h2 id=&#34;what-have-i-been-doing-all-last-week&#34;&gt;What have I been doing all last week&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;Last week I studied at the university, did laboratory work, each for 4 hours + individual project 3 hours&lt;/li&gt;
@@ -101,9 +101,9 @@
     
     <item>
       <title>My last week 2</title>
-      <link>https://example.com/post/%D0%BC%D0%BE%D1%8F-%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-2/</link>
+      <link>%20nastarkov.github.io/post/%D0%BC%D0%BE%D1%8F-%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-2/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/%D0%BC%D0%BE%D1%8F-%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-2/</guid>
+      <guid>%20nastarkov.github.io/post/%D0%BC%D0%BE%D1%8F-%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-2/</guid>
       <description>&lt;h2 id=&#34;what-have-i-been-doing-all-last-week&#34;&gt;What have I been doing all last week&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;Last week we had fun with friends, walked a lot, enjoyed life&lt;/li&gt;
@@ -116,9 +116,9 @@
     
     <item>
       <title>My last week 3</title>
-      <link>https://example.com/post/%D0%BC%D0%BE%D1%8F-%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/</link>
+      <link>%20nastarkov.github.io/post/%D0%BC%D0%BE%D1%8F-%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/%D0%BC%D0%BE%D1%8F-%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/</guid>
+      <guid>%20nastarkov.github.io/post/%D0%BC%D0%BE%D1%8F-%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/</guid>
       <description>&lt;h2 id=&#34;what-have-i-been-doing-all-last-week&#34;&gt;What have I been doing all last week&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;Last week, I finally smelled summer, coming holidays and having a great time.&lt;/li&gt;
@@ -134,9 +134,9 @@
     
     <item>
       <title>My last week 4</title>
-      <link>https://example.com/post/%D0%BC%D0%BE%D1%8F-%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/</link>
+      <link>%20nastarkov.github.io/post/%D0%BC%D0%BE%D1%8F-%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/%D0%BC%D0%BE%D1%8F-%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/</guid>
+      <guid>%20nastarkov.github.io/post/%D0%BC%D0%BE%D1%8F-%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/</guid>
       <description>&lt;h2 id=&#34;what-have-i-been-doing-all-last-week&#34;&gt;What have I been doing all last week&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;Last week Yulechka went to a Georgian restaurant. We liked it very much, but the soup was spicy&lt;/li&gt;
@@ -149,9 +149,9 @@
     
     <item>
       <title>My last week 5</title>
-      <link>https://example.com/post/%D0%BC%D0%BE%D1%8F-%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-5/</link>
+      <link>%20nastarkov.github.io/post/%D0%BC%D0%BE%D1%8F-%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-5/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/%D0%BC%D0%BE%D1%8F-%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-5/</guid>
+      <guid>%20nastarkov.github.io/post/%D0%BC%D0%BE%D1%8F-%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-5/</guid>
       <description>&lt;h2 id=&#34;what-have-i-been-doing-all-last-week&#34;&gt;What have I been doing all last week&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -170,9 +170,9 @@
     
     <item>
       <title>Report design</title>
-      <link>https://example.com/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</link>
+      <link>%20nastarkov.github.io/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</guid>
+      <guid>%20nastarkov.github.io/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</guid>
       <description>&lt;h2 id=&#34;generally-accepted-reporting-standards&#34;&gt;Generally accepted reporting standards&lt;/h2&gt;
 &lt;p&gt;The R&amp;amp;D report must be made by any printing method on a typewriter or using a computer and a printer on one side of a sheet of A4 white paper at one and a half intervals.&lt;/p&gt;
 &lt;p&gt;Pages of the report should be numbered with Arabic numerals, following continuous numbering throughout the text of the report. The page number is placed in the center of the bottom of the sheet without a dot. The title page is included in the overall page numbering of the report. The page number on the title page is not affixed.&lt;/p&gt;
@@ -185,9 +185,9 @@
     
     <item>
       <title>Scientific programming languages</title>
-      <link>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</link>
+      <link>%20nastarkov.github.io/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</guid>
+      <guid>%20nastarkov.github.io/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</guid>
       <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;In computer programming, a scientific programming language can refer to two powers of the same concept.&lt;/p&gt;
 &lt;p&gt;In a broad sense, a scientific programming language is a programming language that is widely used for computational science and computational mathematics. In this sense, C/C++ and Python can be considered scientific programming languages.&lt;/p&gt;
@@ -198,9 +198,9 @@
     
     <item>
       <title>The meaning of being</title>
-      <link>https://example.com/post/%D1%81%D0%BC%D1%8B%D1%81%D0%BB-%D0%B1%D1%8B%D1%82%D0%B8%D1%8F/</link>
+      <link>%20nastarkov.github.io/post/%D1%81%D0%BC%D1%8B%D1%81%D0%BB-%D0%B1%D1%8B%D1%82%D0%B8%D1%8F/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/%D1%81%D0%BC%D1%8B%D1%81%D0%BB-%D0%B1%D1%8B%D1%82%D0%B8%D1%8F/</guid>
+      <guid>%20nastarkov.github.io/post/%D1%81%D0%BC%D1%8B%D1%81%D0%BB-%D0%B1%D1%8B%D1%82%D0%B8%D1%8F/</guid>
       <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;The meaning of all human existence lies in being realized through one&amp;rsquo;s own actions. Each of us determines for himself his own values, picture of the world and views. But it often happens that the picture of the world in the mind of a particular person has some mythological overtones. This is due to the fact that the picture of the world is formed under the influence of the past, which was founded by previous generations who lived in this place before us and will live after us.&lt;/p&gt;
 &lt;p&gt;As a rule, this picture of the world is represented by various slogans, fanned by all sorts of myths and stereotypes, but not by ancestors, but by contemporaries about ancestors. It is very difficult to talk about the meaning of life and how conscious it is, because each person builds his own system of values ​​based on some specific examples from history. Most often preaches the dominant political ideology or religion.&lt;/p&gt;
@@ -218,9 +218,9 @@
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/slides/example/</link>
+      <link>%20nastarkov.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/slides/example/</guid>
+      <guid>%20nastarkov.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;полезная-и-вредная-еда&#34;&gt;Полезная и вредная еда&lt;/h1&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;мучные-изделия&#34;&gt;Мучные изделия&lt;/h2&gt;
@@ -300,9 +300,9 @@
     
     <item>
       <title>Useful and unhealthy food</title>
-      <link>https://example.com/project/example/</link>
+      <link>%20nastarkov.github.io/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
+      <guid>%20nastarkov.github.io/project/example/</guid>
       <description>&lt;p&gt;The first place among the so-called products of &amp;ldquo;vampires&amp;rdquo; is white bread (265 kcal per 100 grams) - these are not only loaves and buns, they include toasts, croissants and pizza. Bread harms the figure and negatively affects the body.&lt;/p&gt;
 &lt;p&gt;Such lush, beautiful and fragrant buns are full of carbohydrates, and this stimulates the pancreas and provokes a rapid release of insulin. As a result, the tone decreases, the person experiences fatigue and appetite increases. A piece of bread cannot saturate the body for a long time and has a low nutritional value.&lt;/p&gt;
 &lt;p&gt;The same effect is applied to the body and flakes (with the exception of those that do not contain sugar). They contain a large amount of sugar, insulin is produced and by the middle of the day we feel hungry. Therefore, we forget about sandwiches with white bread and quick breakfasts and switch to whole grain bread without yeast, cereals (oatmeal, buckwheat, corn), cottage cheese, cheese, boiled eggs or not sweet yogurt. An excellent addition to such a morning meal would be nuts, pumpkin seeds, berries (blueberries, raspberries, watermelon, etc.), honey, protein shakes or drinks based on soy milk.&lt;/p&gt;
@@ -351,9 +351,9 @@
     
     <item>
       <title>An example conference paper</title>
-      <link>https://example.com/publication/example/</link>
+      <link>%20nastarkov.github.io/publication/example/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/example/</guid>
+      <guid>%20nastarkov.github.io/publication/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -370,9 +370,9 @@
     
     <item>
       <title></title>
-      <link>https://example.com/admin/config.yml</link>
+      <link>%20nastarkov.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/config.yml</guid>
+      <guid>%20nastarkov.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     

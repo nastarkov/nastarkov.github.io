@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Academic</title>
-    <link>https://example.com/project/</link>
-      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>%20nastarkov.github.io/project/</link>
+      <atom:link href="%20nastarkov.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>%20nastarkov.github.io/%20nastarkov.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://example.com/project/</link>
+      <link>%20nastarkov.github.io/project/</link>
     </image>
     
     <item>
       <title>Useful and unhealthy food</title>
-      <link>https://example.com/project/example/</link>
+      <link>%20nastarkov.github.io/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
+      <guid>%20nastarkov.github.io/project/example/</guid>
       <description>&lt;p&gt;The first place among the so-called products of &amp;ldquo;vampires&amp;rdquo; is white bread (265 kcal per 100 grams) - these are not only loaves and buns, they include toasts, croissants and pizza. Bread harms the figure and negatively affects the body.&lt;/p&gt;
 &lt;p&gt;Such lush, beautiful and fragrant buns are full of carbohydrates, and this stimulates the pancreas and provokes a rapid release of insulin. As a result, the tone decreases, the person experiences fatigue and appetite increases. A piece of bread cannot saturate the body for a long time and has a low nutritional value.&lt;/p&gt;
 &lt;p&gt;The same effect is applied to the body and flakes (with the exception of those that do not contain sugar). They contain a large amount of sugar, insulin is produced and by the middle of the day we feel hungry. Therefore, we forget about sandwiches with white bread and quick breakfasts and switch to whole grain bread without yeast, cereals (oatmeal, buckwheat, corn), cottage cheese, cheese, boiled eggs or not sweet yogurt. An excellent addition to such a morning meal would be nuts, pumpkin seeds, berries (blueberries, raspberries, watermelon, etc.), honey, protein shakes or drinks based on soy milk.&lt;/p&gt;
