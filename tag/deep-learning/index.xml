@@ -13,15 +13,53 @@
     </image>
     
     <item>
-      <title>Example Project</title>
+      <title>Useful and unhealthy food</title>
       <link>https://example.com/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <description>&lt;p&gt;The first place among the so-called products of &amp;ldquo;vampires&amp;rdquo; is white bread (265 kcal per 100 grams) - these are not only loaves and buns, they include toasts, croissants and pizza. Bread harms the figure and negatively affects the body.&lt;/p&gt;
+&lt;p&gt;Such lush, beautiful and fragrant buns are full of carbohydrates, and this stimulates the pancreas and provokes a rapid release of insulin. As a result, the tone decreases, the person experiences fatigue and appetite increases. A piece of bread cannot saturate the body for a long time and has a low nutritional value.&lt;/p&gt;
+&lt;p&gt;The same effect is applied to the body and flakes (with the exception of those that do not contain sugar). They contain a large amount of sugar, insulin is produced and by the middle of the day we feel hungry. Therefore, we forget about sandwiches with white bread and quick breakfasts and switch to whole grain bread without yeast, cereals (oatmeal, buckwheat, corn), cottage cheese, cheese, boiled eggs or not sweet yogurt. An excellent addition to such a morning meal would be nuts, pumpkin seeds, berries (blueberries, raspberries, watermelon, etc.), honey, protein shakes or drinks based on soy milk.&lt;/p&gt;
+&lt;p&gt;Most people cannot imagine a morning without a cup of coffee. It promotes the intensive production of adrenaline and cortisol and makes us more energetic. Alas, not for long. After a few weeks, the body stops responding to this drink, and in order to cheer up, we need large portions. Vigor in the morning will help to give green tea, freshly squeezed juice or ginger drink with lemon.&lt;/p&gt;
+&lt;p&gt;Don&amp;rsquo;t eat fatty foods!&lt;/p&gt;
+&lt;p&gt;The body spends a lot of energy on digesting meat, fast food, salty and smoked snacks, which affects performance and productivity. You should also not give preference to sausage, sausages and smoked meat. These products have little nutritional value and a lot of &amp;ldquo;foreign&amp;rdquo; carbohydrates, the consumption of which contributes to increased fatigue and does not give a long satiety. You should choose small portions of lean meat that has gone through minimal processing. It is best to eat fish and seafood.&lt;/p&gt;
+&lt;p&gt;Power engineers are not doctors!&lt;/p&gt;
+&lt;p&gt;Many people believe that energy drinks can do wonders for fatigue. In fact, we experience a feeling of cheerfulness after a jar of energy drinks not because of the L-carnitine and taurine contained in its composition, but thanks to sugar and caffeine, and after a few hours, a person may feel a headache, weakness and mood deterioration. Sugar stimulant is addictive and harms the body. With the frequent use of energy drinks, problems with the heart, pressure and nervous system can occur.&lt;/p&gt;
+&lt;p&gt;Proper nutrition is one of the main components of a healthy lifestyle, which ensures the normal development, growth and vital activity of a person, helps to strengthen the body and prevent various diseases.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Breakfast.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;It should not be skipped, because. this will give enough energy for the coming day, plus, at this time of day, metabolic processes are most active in the body, and this requires some energy in the form of a hearty breakfast and even allows for some &amp;ldquo;excesses&amp;rdquo;.&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Fractional nutrition&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;During the day, there must be breakfast, lunch and dinner and snacks. Portions should be moderate.&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Vegetables and fruits.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Rich in vitamins, useful trace elements and fiber, they saturate the body with everything necessary and contribute to the normalization of the intestines.&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Meat = lean veal or poultry fillet.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The best time for meat is lunch, but you should not combine it with cereals or pasta. Vegetables are a good side dish for him.&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;Dairy products.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Kefir, fermented baked milk, cottage cheese, as well as hard cheeses must be present in the diet. It is worth giving preference to products with low fat content.&lt;/p&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;Water.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The lack of water immediately affects the appearance, the metabolic processes slow down and the intestines cannot be properly cleansed. Drink 8 glasses of water per day. Be sure to drink 1 glass 20 minutes before breakfast. This will allow the body to wake up (the water should be at room temperature, and drink in small sips, slowly).&lt;/p&gt;
+&lt;p&gt;Limit salt and sugar in your diet. Sugar interferes with nutritional control, because. sharply increases blood glucose, and soon also sharply reduces it. This leads to a false sense of hunger, and then to overeating. Salt retains fluid in the body and causes swelling.&lt;/p&gt;
+&lt;p&gt;Белковая пища не сочетается с углеводами (к мясу, яйцам, сыру, орехам не подходит картофель или злаки). Мясо можно есть только с отварным картофелем или запеченным картофелем. Высокоуглеводные продукты (бобы, картофель, хлеб) не сочетаются с кислой едой. Белки и жиры не совместимы (масло и сыр, яйца и сметана).&lt;/p&gt;
+&lt;p&gt;Protein food is not combined with carbohydrates (potatoes or cereals are not suitable for meat, eggs, cheese, nuts). Meat can only be eaten with boiled potatoes or baked potatoes. High carbohydrate foods (beans, potatoes, bread) do not go well with acidic foods. Proteins and fats are not compatible (butter and cheese, eggs and sour cream).&lt;/p&gt;
+&lt;p&gt;Harmful products:&lt;/p&gt;
+&lt;p&gt;purchased sauces (ketchups, mayonnaise, etc.);&lt;/p&gt;
+&lt;p&gt;refined sugar, butter, coffee, cocoa;&lt;/p&gt;
+&lt;p&gt;salinity, smoked meats, fried foods, preservatives;&lt;/p&gt;
+&lt;p&gt;fast food products, meat products (sausages, etc.);&lt;/p&gt;
+&lt;p&gt;white flour products;&lt;/p&gt;
+&lt;p&gt;alcohol.&lt;/p&gt;
 </description>
     </item>
     

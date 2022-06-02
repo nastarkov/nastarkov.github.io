@@ -11,123 +11,80 @@
       <link>https://example.com/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://example.com/slides/example/</guid>
-      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;h1 id=&#34;полезная-и-вредная-еда&#34;&gt;Полезная и вредная еда&lt;/h1&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;h2 id=&#34;мучные-изделия&#34;&gt;Мучные изделия&lt;/h2&gt;
+&lt;p&gt;Первое место среди так называемых продуктов &amp;ldquo;вампиров&amp;rdquo; выделен белый хлеб (265 ккал на 100 грамм)— это не только батоны и булочки, к ним относятся тосты, круассаны и пицца. Хлеб вредит фигуре и негативно действует на организм.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;мучные-изделия-1&#34;&gt;Мучные изделия&lt;/h2&gt;
+&lt;p&gt;Такие пышные, красивые и ароматные булочки полны углеводами,а это стимулирует работу поджелудочной и провоцирует быстрый выброс инсулина. В результате, снижается тонус, человек испытывает утомление и повышается аппетит. Кусок хлеба не может надолго насытить организм и обладает невысокой питательной ценностью.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;мучные-изделия-2&#34;&gt;Мучные изделия&lt;/h2&gt;
+&lt;p&gt;Такой же эффект организму наносят и хлопья (за исключением тех, что не содержат сахар). Они содержат большое количество сахара, вырабатывается инсулин и уже к середине дня мы чувствуем голод. Поэтому забываем про бутерброды с белым хлебом и быстрые завтраки и переходим на цельнозерновой хлеб без дрожжей, каши (овсяная, гречневая, кукурузная), творог, сыр, отварные яйца или не сладкий йогурт. Отличной добавкой к такой утренней трапезе станут орехи, тыквенные семечки.&lt;/p&gt;
+&lt;h2 id=&#34;кофе&#34;&gt;Кофе&lt;/h2&gt;
+&lt;p&gt;Большинство людей не могут представить себе утро без чашки кофе. Он способствует интенсивной выработке адреналина и кортизола и делает нас более энергичными. Увы, не долго. Спустя несколько недель организм перестает реагировать на этот напиток и чтобы взбодриться, нам понадобятся объемные порции. Бодрость с утра помогут придать зеленый чай, свежевыжатый сок или имбирный напиток с лимоном.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;жирная-еда&#34;&gt;Жирная еда&lt;/h2&gt;
+&lt;p&gt;Не ешьте жирное!&lt;/p&gt;
+&lt;p&gt;На переваривание мяса, фастфуда, соленых и копченых снеков организм тратит много энергии, что влияет на работоспособность и продуктивность. Не следует также отдавать предпочтение колбасе, сосискам и копченому мясу. В этих продуктах мало питательной ценности и много &amp;ldquo;посторонних&amp;rdquo; углеводов, потребление которых способствует повышенной утомляемости и не дает долгого насыщения.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;энергетики&#34;&gt;Энергетики&lt;/h2&gt;
+&lt;p&gt;Многие считают, что энергетические напитки способны сотворить с усталостью чудо. На самом деле, чувство бодрости после баночки энергетика мы испытываем не из-за L-карнитина и таурина, содержащихся в его составе, а благодаря сахару и кофеину и спустя несколько часов, человек может почувствовать головную боль, слабость и ухудшение настроения. Сахарный стимулятор вызывает привыкание и наносит вред организму.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;правильное-питание&#34;&gt;Правильное питание&lt;/h2&gt;
+&lt;p&gt;Правильное питание –  один из основных компонентов здорового образа жизни, который обеспечивает нормальное развитие, рост и жизнедеятельность человека, способствует укреплению организма и профилактику различных заболеваний.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;правильное-питание-1&#34;&gt;Правильное питание&lt;/h2&gt;
+&lt;p&gt;1)Завтрак.&lt;/p&gt;
+&lt;p&gt;Его нельзя пропускать, т.к. это даст достаточно энергии для наступающего дня, плюс, в это время суток процессы метаболизма протекают в организме наиболее активно, а это требует некоторого запаса энергии в виде сытного завтрака и даже допускает некоторые «излишества».&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;правильное-питание-2&#34;&gt;Правильное питание&lt;/h2&gt;
+&lt;p&gt;2)Дробное питание&lt;/p&gt;
+&lt;p&gt;В течение дня обязательно должны быть завтрак, обед и ужин и перекусы. Порции должны быть умеренные.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;правильное-питание-3&#34;&gt;Правильное питание&lt;/h2&gt;
+&lt;p&gt;3)Овощи и фрукты.&lt;/p&gt;
+&lt;p&gt;Богатые витаминами, полезными микроэлементами и клетчаткой, они насыщают организм всем необходимым и способствуют нормализации работы кишечника.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;правильное-питание-4&#34;&gt;Правильное питание&lt;/h2&gt;
+&lt;p&gt;4)Мясо = нежирная телятина или филе птицы.&lt;/p&gt;
+&lt;p&gt;Лучшее время для мяса – обед, но не стоит сочетать его с крупами или макаронами. Хорошим гарниром для него станут овощи.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;правильное-питание-5&#34;&gt;Правильное питание&lt;/h2&gt;
+&lt;p&gt;5)Кисломолочные продукты.&lt;/p&gt;
+&lt;p&gt;Кефир, ряженка, творог, а также твердые сорта сыра обязательно должны присутствовать в рационе. Стоит отдавать предпочтение продуктам с низкой жирностью.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;правильное-питание-6&#34;&gt;Правильное питание&lt;/h2&gt;
+&lt;p&gt;6)Вода.&lt;/p&gt;
+&lt;p&gt;Недостаток воды сразу отражается на внешнем виде, процессы метаболизма замедляются и кишечник не может нормально очищаться. В день воды необходимо выпивать 8 стаканов. Обязательно 1 стакан выпить за 20 минут до завтрака. Это позволит организму пробудиться (вода должна быть комнатной температуры, а пить маленькими глотками, не спеша).&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;ограничения-в-приемах-пищи&#34;&gt;Ограничения в приемах пищи&lt;/h2&gt;
+&lt;p&gt;Стоит ограничить соль и сахар в питании. Сахар мешает контролю за питанием, т.к. резко увеличивает глюкозу в крови, а в скором времени также резко ее сокращает. Это ведет к ложному чувству голода, а затем и к перееданию. Соль, задерживая в организме жидкость и вызывает отечность.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;ограничения-в-приемах-пищи-1&#34;&gt;Ограничения в приемах пищи&lt;/h2&gt;
+&lt;p&gt;Белковая пища не сочетается с углеводами (к мясу, яйцам, сыру, орехам не подходит картофель или злаки). Мясо можно есть только с отварным картофелем или запеченным картофелем. Высокоуглеводные продукты (бобы, картофель, хлеб) не сочетаются с кислой едой. Белки и жиры не совместимы (масло и сыр, яйца и сметана).&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;вредная-еда&#34;&gt;Вредная еда&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
-&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
-&lt;li&gt;Supports speaker notes&lt;/li&gt;
-&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;покупные соусы (кетчупы, майонезы и т.п.);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;рафинированный сахар, сливочное масло, кофе, какао;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;солености, копчености, жаренное, консерванты;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;продукты быстрого приготовления, мясная готовая продукция (колбасы и пр.);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;продукты из белой муки;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;алкоголь.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
-&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Code block:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
-&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
-&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
-&lt;p&gt;Block math:&lt;/p&gt;
-&lt;p&gt;$$
-f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
-&lt;p&gt;Make content appear incrementally&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-  One
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-  &lt;strong&gt;Two&lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-  Three
-&lt;/span&gt;
-&lt;hr&gt;
-&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
-&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
-&lt;aside class=&#34;notes&#34;&gt;
-  &lt;ul&gt;
-&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
-&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/aside&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
-&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
-&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
-&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
-&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
-&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-
-&lt;section data-noprocess data-shortcode-slide
-  
-      
-      data-background-image=&#34;/media/boards.jpg&#34;
-  &gt;
-
-&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
-&lt;p&gt;Customize the slide style and background&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
-&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
-&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
-&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
-&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming | Academic</title>
+    <link>https://example.com/category/programming/</link>
+      <atom:link href="https://example.com/category/programming/index.xml" rel="self" type="application/rss+xml" />
+    <description>Programming</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Programming</title>
+      <link>https://example.com/category/programming/</link>
+    </image>
+    
+    <item>
+      <title>Git version control</title>
+      <link>https://example.com/post/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8-git/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8-git/</guid>
+      <description>&lt;h2 id=&#34;описание&#34;&gt;Описание&lt;/h2&gt;
+&lt;p&gt;GIT is a distributed version control system created by Linus Torvalds to manage the development of the Linux kernel and is currently very widespread among software developers.&lt;/p&gt;
+&lt;p&gt;A Version Control System (VCS) is software that makes it easier to work with changing information. The version control system allows you to store multiple versions of the same document, revert to earlier versions if necessary, determine who made a change and when, and much more. Such systems are most widely used in software development to store the source codes of the program being developed.&lt;/p&gt;
+&lt;p&gt;GIT is one such system. GIT uses a distributed model instead of the traditional client-server model. Thus, GIT repositories do not need a centralized repository: the entire history of document changes is stored on each computer, in local storage, and, if necessary, individual fragments of the local storage history are synchronized with the same storage on another computer.&lt;/p&gt;
+&lt;p&gt;Today, GIT has become the standard version control system for so many developers, and GitHub source code hosting is the largest such service. Examples of projects using Git are the Linux kernel, Android, Ruby on Rails, Drupal, Wine, Chromium, Compiz Fusion, jQuery, PHP, MediaWiki, and some Linux distributions&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lightweight markup languages</title>
+      <link>https://example.com/post/%D0%BB%D0%B5%D0%B3%D0%BA%D0%BE%D0%B2%D0%B5%D1%81%D0%BD%D1%8B%D0%B5-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BB%D0%B5%D0%B3%D0%BA%D0%BE%D0%B2%D0%B5%D1%81%D0%BD%D1%8B%D0%B5-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8/</guid>
+      <description>&lt;h2 id=&#34;описание&#34;&gt;Описание&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;General information&lt;/p&gt;
+&lt;p&gt;Designed to easily and quickly add formatting to text data.&lt;/p&gt;
+&lt;p&gt;Peculiarities:&lt;/p&gt;
+&lt;p&gt;-Minimum functions&lt;/p&gt;
+&lt;p&gt;-Small set of supported tags&lt;/p&gt;
+&lt;p&gt;-Easy to learn&lt;/p&gt;
+&lt;p&gt;-The source text in this language is read with the same ease as the finished document&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Representatives&lt;/p&gt;
+&lt;p&gt;-markdown&lt;/p&gt;
+&lt;p&gt;-org-mode&lt;/p&gt;
+&lt;p&gt;-BBCode&lt;/p&gt;
+&lt;p&gt;-reStructuredText&lt;/p&gt;
+&lt;p&gt;-textile&lt;/p&gt;
+&lt;p&gt;-Wiki markup&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lightweight languages ​​for writing mathematical expressions&lt;/p&gt;
+&lt;p&gt;-AsciiMath&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific programming languages</title>
+      <link>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;In computer programming, a scientific programming language can refer to two powers of the same concept.&lt;/p&gt;
+&lt;p&gt;In a broad sense, a scientific programming language is a programming language that is widely used for computational science and computational mathematics. In this sense, C/C++ and Python can be considered scientific programming languages.&lt;/p&gt;
+&lt;p&gt;In a broader sense, a scientific programming language is a language designed and optimized for the use of mathematical formulas and matrices. Such languages ​​are characterized not only by the presence of libraries that perform mathematical or scientific functions, but also by the syntax of the language itself. For example, neither C++ nor Python have built-in matrix types or functions for matrix arithmetic (addition, multiplication, etc.); Instead, this functionality is available through the standard libraries. Scientific programming languages ​​in a stronger sense include ALGOL, APL, Fortran, J, Julia, Maple, MATLAB, and R.&lt;/p&gt;
+&lt;p&gt;Scientific programming languages ​​should not be confused with scientific language in general, which refers to the higher standards of precision, correctness, and brevity expected of practitioners of the scientific method.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

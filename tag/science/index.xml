@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science | Academic</title>
+    <link>https://example.com/tag/science/</link>
+      <atom:link href="https://example.com/tag/science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Science</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Science</title>
+      <link>https://example.com/tag/science/</link>
+    </image>
+    
+    <item>
+      <title>Lightweight markup languages</title>
+      <link>https://example.com/post/%D0%BB%D0%B5%D0%B3%D0%BA%D0%BE%D0%B2%D0%B5%D1%81%D0%BD%D1%8B%D0%B5-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BB%D0%B5%D0%B3%D0%BA%D0%BE%D0%B2%D0%B5%D1%81%D0%BD%D1%8B%D0%B5-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8/</guid>
+      <description>&lt;h2 id=&#34;описание&#34;&gt;Описание&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;General information&lt;/p&gt;
+&lt;p&gt;Designed to easily and quickly add formatting to text data.&lt;/p&gt;
+&lt;p&gt;Peculiarities:&lt;/p&gt;
+&lt;p&gt;-Minimum functions&lt;/p&gt;
+&lt;p&gt;-Small set of supported tags&lt;/p&gt;
+&lt;p&gt;-Easy to learn&lt;/p&gt;
+&lt;p&gt;-The source text in this language is read with the same ease as the finished document&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Representatives&lt;/p&gt;
+&lt;p&gt;-markdown&lt;/p&gt;
+&lt;p&gt;-org-mode&lt;/p&gt;
+&lt;p&gt;-BBCode&lt;/p&gt;
+&lt;p&gt;-reStructuredText&lt;/p&gt;
+&lt;p&gt;-textile&lt;/p&gt;
+&lt;p&gt;-Wiki markup&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lightweight languages ​​for writing mathematical expressions&lt;/p&gt;
+&lt;p&gt;-AsciiMath&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Report design</title>
+      <link>https://example.com/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</guid>
+      <description>&lt;h2 id=&#34;generally-accepted-reporting-standards&#34;&gt;Generally accepted reporting standards&lt;/h2&gt;
+&lt;p&gt;The R&amp;amp;D report must be made by any printing method on a typewriter or using a computer and a printer on one side of a sheet of A4 white paper at one and a half intervals.&lt;/p&gt;
+&lt;p&gt;Pages of the report should be numbered with Arabic numerals, following continuous numbering throughout the text of the report. The page number is placed in the center of the bottom of the sheet without a dot. The title page is included in the overall page numbering of the report. The page number on the title page is not affixed.&lt;/p&gt;
+&lt;p&gt;The font color must be black, the height of letters, numbers and other characters - at least 1.8 mm (point size at least 12). Bold font is not used.&lt;/p&gt;
+&lt;p&gt;The text of the report should be printed observing the following margins: right - at least 10 mm, top and bottom - at least 20 mm, left - at least 30 mm.&lt;/p&gt;
+&lt;p&gt;The title page is the first page of the research report and serves as a source of information necessary for processing and searching for the document. The title page must contain the city and year of issue of the work.&lt;/p&gt;
+&lt;p&gt;The approximate volume of the thesis is 50-60 pages of typewritten text, term paper - at least 20 pages.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific programming languages</title>
+      <link>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;In computer programming, a scientific programming language can refer to two powers of the same concept.&lt;/p&gt;
+&lt;p&gt;In a broad sense, a scientific programming language is a programming language that is widely used for computational science and computational mathematics. In this sense, C/C++ and Python can be considered scientific programming languages.&lt;/p&gt;
+&lt;p&gt;In a broader sense, a scientific programming language is a language designed and optimized for the use of mathematical formulas and matrices. Such languages ​​are characterized not only by the presence of libraries that perform mathematical or scientific functions, but also by the syntax of the language itself. For example, neither C++ nor Python have built-in matrix types or functions for matrix arithmetic (addition, multiplication, etc.); Instead, this functionality is available through the standard libraries. Scientific programming languages ​​in a stronger sense include ALGOL, APL, Fortran, J, Julia, Maple, MATLAB, and R.&lt;/p&gt;
+&lt;p&gt;Scientific programming languages ​​should not be confused with scientific language in general, which refers to the higher standards of precision, correctness, and brevity expected of practitioners of the scientific method.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The meaning of being</title>
+      <link>https://example.com/post/%D1%81%D0%BC%D1%8B%D1%81%D0%BB-%D0%B1%D1%8B%D1%82%D0%B8%D1%8F/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D1%81%D0%BC%D1%8B%D1%81%D0%BB-%D0%B1%D1%8B%D1%82%D0%B8%D1%8F/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;The meaning of all human existence lies in being realized through one&amp;rsquo;s own actions. Each of us determines for himself his own values, picture of the world and views. But it often happens that the picture of the world in the mind of a particular person has some mythological overtones. This is due to the fact that the picture of the world is formed under the influence of the past, which was founded by previous generations who lived in this place before us and will live after us.&lt;/p&gt;
+&lt;p&gt;As a rule, this picture of the world is represented by various slogans, fanned by all sorts of myths and stereotypes, but not by ancestors, but by contemporaries about ancestors. It is very difficult to talk about the meaning of life and how conscious it is, because each person builds his own system of values ​​based on some specific examples from history. Most often preaches the dominant political ideology or religion.&lt;/p&gt;
+&lt;p&gt;From time immemorial, thinkers from different countries have been thinking about the questions: &amp;ldquo;What is the meaning of being? What does a person live for? What is his goal in this world?&amp;rdquo; Moreover, many philosophers have spent their lives to answer this question, dedicated their writings to this topic.&lt;/p&gt;
+&lt;p&gt;For a simple layman, it all comes down to mundane targets and the list looks something like this:&lt;/p&gt;
+&lt;p&gt;Finding family happiness. Create a family, have children, give them a decent education and live life peacefully and quietly.&lt;/p&gt;
+&lt;p&gt;The acquisition of material wealth and the ability to dispose of them. Many believe that money can buy everything, so they strive to make money.&lt;/p&gt;
+&lt;p&gt;Dedicate your life to science and scientific discoveries. Scientists seek to know the world through science and their research.&lt;/p&gt;
+&lt;p&gt;There is no point in our existence. All is vanity of vanities.&lt;/p&gt;
+&lt;p&gt;Search for an answer in spiritual manifestations. Some realize themselves in a religious environment.&lt;/p&gt;
+&lt;p&gt;Participation in social struggle. Participation in revolutionary movements and opposing organizations.&lt;/p&gt;
+&lt;p&gt;Suffering. Some people think that suffering is the most human thing about it. They grow, mature, outgrow themselves, and at the moment of their helpless state, when there is no hope for anything, they feel an irresistible desire to change.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
