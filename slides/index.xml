@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Slides | Academic</title>
-    <link>%20nastarkov.github.io/slides/</link>
-      <atom:link href="%20nastarkov.github.io/slides/index.xml" rel="self" type="application/rss+xml" />
+    <link>nastarkov.github.io/slides/</link>
+      <atom:link href="nastarkov.github.io/slides/index.xml" rel="self" type="application/rss+xml" />
     <description>Slides</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Slides</title>
-      <link>%20nastarkov.github.io/slides/example/</link>
+      <link>nastarkov.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>%20nastarkov.github.io/slides/example/</guid>
+      <guid>nastarkov.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;полезная-и-вредная-еда&#34;&gt;Полезная и вредная еда&lt;/h1&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;мучные-изделия&#34;&gt;Мучные изделия&lt;/h2&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Work with documents | Academic</title>
-    <link>%20nastarkov.github.io/category/work-with-documents/</link>
-      <atom:link href="%20nastarkov.github.io/category/work-with-documents/index.xml" rel="self" type="application/rss+xml" />
+    <link>nastarkov.github.io/category/work-with-documents/</link>
+      <atom:link href="nastarkov.github.io/category/work-with-documents/index.xml" rel="self" type="application/rss+xml" />
     <description>Work with documents</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>%20nastarkov.github.io/%20nastarkov.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/nastarkov.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Work with documents</title>
-      <link>%20nastarkov.github.io/category/work-with-documents/</link>
+      <link>nastarkov.github.io/category/work-with-documents/</link>
     </image>
     
     <item>
       <title>Report design</title>
-      <link>%20nastarkov.github.io/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</link>
+      <link>nastarkov.github.io/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>%20nastarkov.github.io/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</guid>
+      <guid>nastarkov.github.io/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</guid>
       <description>&lt;h2 id=&#34;generally-accepted-reporting-standards&#34;&gt;Generally accepted reporting standards&lt;/h2&gt;
 &lt;p&gt;The R&amp;amp;D report must be made by any printing method on a typewriter or using a computer and a printer on one side of a sheet of A4 white paper at one and a half intervals.&lt;/p&gt;
 &lt;p&gt;Pages of the report should be numbered with Arabic numerals, following continuous numbering throughout the text of the report. The page number is placed in the center of the bottom of the sheet without a dot. The title page is included in the overall page numbering of the report. The page number on the title page is not affixed.&lt;/p&gt;
